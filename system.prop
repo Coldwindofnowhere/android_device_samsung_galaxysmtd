@@ -50,10 +50,8 @@ mm.enable.smoothstreaming=true
 
 # Various 
 ro.secure=0
-logcat.live=disable
 persist.service.pcsync.enable=0
 persist.service.lgospd.enable=0
 persist.sys.purgeable_assets=1
-pm.sleep_mode=1
 ro.config.hw_quickpoweron=true
 debug.kill_allocating_task=0 
